@@ -7,4 +7,5 @@
 | 3 | **GhostGunZ (2017)**   | [Archive →](https://web.archive.org/web/20171115070225/http://gunz.ghostgame.net/) | [![Archived](https://img.shields.io/badge/archived-blue?style=flat-square)] |
 | 4 | **FutureGunZ (2020)**   | --- | [![Archived](https://img.shields.io/badge/archived-blue?style=flat-square)] |
 | 5 | **HeroGamers (2019)**   | [Archive →](https://web.archive.org/web/20230829140229/https://gunz.herogamers.net/) | [![Archived](https://img.shields.io/badge/archived-blue?style=flat-square)] |
+| 6 | **AtGunz.co.in (2016)**   | [Archive →](https://web.archive.org/web/20160616112622/http://atgunz.co.in/) | [![Archived](https://img.shields.io/badge/archived-blue?style=flat-square)] |
 
