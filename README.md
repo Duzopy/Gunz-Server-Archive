@@ -6,4 +6,5 @@
 | 2 | **UniverseGamers/EuroGunZ (2026)**   | [Archive →](https://web.archive.org/web/20191108005054/https://universegunz.net/) | [![Archived](https://img.shields.io/badge/archived-blue?style=flat-square)] |
 | 3 | **GhostGunZ (2017)**   | [Archive →](https://web.archive.org/web/20171115070225/http://gunz.ghostgame.net/) | [![Archived](https://img.shields.io/badge/archived-blue?style=flat-square)] |
 | 4 | **FutureGunZ (2020)**   | --- | [![Archived](https://img.shields.io/badge/archived-blue?style=flat-square)] |
+| 5 | **HeroGamers (2019)**   | [Archive →](https://web.archive.org/web/20230829140229/https://gunz.herogamers.net/) | [![Archived](https://img.shields.io/badge/archived-blue?style=flat-square)] |
 
