@@ -10,4 +10,6 @@
 | 6 | **AtGunz.co.in (2016)**   | [Archive →](https://web.archive.org/web/20160616112622/http://atgunz.co.in/) | [![Archived](https://img.shields.io/badge/archived-blue?style=flat-square)] |
 | 7 | **StarGunZ (2016)**   | [Archive →](https://web.archive.org/web/20160501084517/http://gunz.comunidadstar.net/) | [![Archived](https://img.shields.io/badge/archived-blue?style=flat-square)] |
 | 8 | **KnightGunZ (2016)**   | [Archive →](https://web.archive.org/web/20160402105626/http://gunz.knightgamesonline.com/) | [![Archived](https://img.shields.io/badge/archived-blue?style=flat-square)] |
-
+| 9 | **TrueGunz (2011)**   | [Archive →](https://web.archive.org/web/20110317133631/http://www.truegunz.com/) | [![Lost](https://img.shields.io/badge/lost-red?style=flat-square)] |
+| 10 | **DarkGunz (2016)**   | [Archive →](https://web.archive.org/web/20160406231614/http://www.darkgunz.com/) | [![Archived](https://img.shields.io/badge/archived-blue?style=flat-square)] |
+| 11 | **FreeStyleGunZ-V7 (2014)**   | [Archive →](https://web.archive.org/web/20140102040608/https://fgunz.net/) | [![Archived](https://img.shields.io/badge/archived-blue?style=flat-square)] |
