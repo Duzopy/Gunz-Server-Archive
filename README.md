@@ -14,3 +14,4 @@
 | 10 | **DarkGunz (2016)**   | [Archive →](https://web.archive.org/web/20160406231614/http://www.darkgunz.com/) | [![Archived](https://img.shields.io/badge/archived-blue?style=flat-square)] |
 | 11 | **FreeStyleGunZ-V7 (2014)**   | [Archive →](https://web.archive.org/web/20140102040608/https://fgunz.net/) | [![Archived](https://img.shields.io/badge/archived-blue?style=flat-square)] |
 | 12 | **IsraelGunZ (2014)**   | [Archive →](https://web.archive.org/web/20140622175515/http://israelgunz.co.il/index.php) | [![Archived](https://img.shields.io/badge/archived-blue?style=flat-square)] |
+| 13 | **EmperialGunz (2022)**   | [Archive →](https://web.archive.org/web/20220906234832/http://www.emperialgunz.com/) | [![Archived](https://img.shields.io/badge/archived-blue?style=flat-square)] |
