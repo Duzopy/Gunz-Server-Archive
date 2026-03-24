@@ -18,3 +18,4 @@
 | 14 | **MythicGunZ (2013)**   | [Archive →](https://web.archive.org/web/20130712012505/http://mgz.zapto.org/) | [![Lost](https://img.shields.io/badge/lost-red?style=flat-square)] |
 | 15 | **CrazyToffiGunZ (2009)**   | [Archive →](https://web.archive.org/web/20090219195438/http://toffigunz.de/) | [![Archived](https://img.shields.io/badge/archived-blue?style=flat-square)] |
 | 16 | **FiveGunZ (2018)**   | [Archive →](https://web.archive.org/web/20180920045030/http://www.fivegunz.com:80/index.php) | [![Lost](https://img.shields.io/badge/lost-red?style=flat-square)] |
+| 17 | **GunzPro (2018)**   | [Archive →](https://web.archive.org/web/20180526124755/http://www.gunzpro.net/) | [![Lost](https://img.shields.io/badge/lost-red?style=flat-square)] |
