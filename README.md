@@ -22,6 +22,6 @@
 | 18 | **PandemicGamers (2018)**   | [Archive →](https://web.archive.org/web/20180411021009/http://gunz.pandemicgamers.net/) | [![Archived](https://img.shields.io/badge/archived-blue?style=flat-square)] |
 | 19 | **IonicGunz (2016)**   | [Archive →](https://web.archive.org/web/20160927131636/http://ionicgunz.com:80/) | [![Archived](https://img.shields.io/badge/archived-blue?style=flat-square)] |
 | 20 | **ForsakenGunz (2016)**   | --- | [![Lost](https://img.shields.io/badge/lost-red?style=flat-square)] |
-
+| 21 | **SystemGamerZV5 (2015)**   | [Archive →](http://www.systemgunz.k6.com.br/) | [![Archived](https://img.shields.io/badge/archived-blue?style=flat-square)] |
 
 
